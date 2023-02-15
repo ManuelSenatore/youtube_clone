@@ -7,6 +7,7 @@ const Videos = ({ videos }) => {
     <Stack
       direction="row"
       flexWrap="wrap"
+      alignItems="start"
       justifyContent="start"
       gap={2}
     >
